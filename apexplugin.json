@@ -2,7 +2,7 @@
   "name": "Dashboard with  Chart and Cards",
   "version": "1.0.0",
   "description": "An Oracle APEX Region Plugin that displays a dynamic team performance dashboard with a responsive chart and animated progress bars for each employee.",
-  "keywords": ["dashboard", "team performance", "chart", "progress bar", "region", "visualization", "apex"],
+  "keywords": ["dashboard", "team performance", "chart", "progress bar", "region", "visualization", "apex","plugin","card","CARD","PLUGIN","DASHBOARD"],
   "homepage": "https://github.com/mishab424/Dashboard-with-Chart-and-Cards",
   "bugs": {
     "url": "https://github.com/mishab424/Dashboard-with-Chart-and-Cards/issues",
