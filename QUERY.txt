@@ -1,0 +1,15 @@
+SELECT 
+  'John Doe' AS title,
+  'Lead Developer' AS subtitle,
+  'https://i.pravatar.cc/150?img=1' AS image,
+  70 AS value
+FROM dual
+UNION ALL
+SELECT 
+  'Jane Smith', 'Frontend Engineer', 'https://i.pravatar.cc/150?img=2', 55 FROM dual
+UNION ALL
+SELECT 
+  'Alex Ray', 'UI/UX Designer', 'https://i.pravatar.cc/150?img=3', 85 FROM dual
+UNION ALL
+SELECT 
+  'Lisa Roy', 'QA Tester', 'https://i.pravatar.cc/150?img=4', 90 FROM dual
