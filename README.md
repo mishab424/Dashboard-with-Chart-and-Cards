@@ -55,6 +55,7 @@ A customizable and modern Oracle APEX dashboard plugin with toggleable dark/ligh
 
 Use this PL/SQL or SQL as a region source to populate the dashboard:
 
+
 ```sql
 SELECT 
     employee_name,
@@ -63,3 +64,7 @@ SELECT
     profile_photo_url AS photo
 FROM employee_dashboard_progress
 ORDER BY progress DESC;
+
+**screenshorts**
+
+<img width="622" height="707" alt="Screenshot 2025-07-10 171856" src="https://github.com/user-attachments/assets/9fb3ec6f-46cd-4781-9309-66f8680907c1" />
