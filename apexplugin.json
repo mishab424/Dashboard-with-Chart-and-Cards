@@ -27,7 +27,7 @@
         "internalName": "DASHBOARD_WITH_CHART_AND_CARDS",
         "type": "template component",
         "demo": "https://apex.oracle.com/pls/apex/r/aishwarya_dev/dashboard-with-chart-and-cards/home",
-        "previewImage": "https://raw.githubusercontent.com/mishab424/Dashboard-with-Chart-and-Cards/main/demo/preview.gif"
+        "previewImage": "https://raw.githubusercontent.com/mishab424/Dashboard-with-Chart-and-Cards/refs/heads/main/demo/plugin_preview.gif"
       }
     }
   }
