@@ -1,6 +1,6 @@
 # APEX Dashboard Plugin
 
-A customizable and modern Oracle APEX dashboard plugin with toggleable dark/light themes, animated progress cards, and role-wise KPI visualizations.
+An Oracle APEX Region Plugin that delivers a fully dynamic performance dashboard with responsive charts, animated progress bars, and optional image support for each data item—perfect for showcasing team performance, sales trends, KPIs, or any value-based metrics in a visually rich and interactive format.
 
 ![Light Mode](images/dashboard-light.png)
 ![Dark Mode](images/dashboard-dark.png)
